@@ -4,6 +4,8 @@
 
 my pronouns are she/her and i'm 16 years old.
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=b-arelli&show_icons=true&theme=dark)
+
 <!--
 **b-arelli/b-arelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
