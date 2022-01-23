@@ -2,7 +2,7 @@
 
 ![giphy (2)](https://user-images.githubusercontent.com/81940210/134061909-a58add4a-75af-474a-815b-499c7eb07c3a.gif) 
 
-my pronouns are she/her and i'm 16 years old.
+my pronouns are she/her and i'm 17 years old.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=b-arelli&show_icons=true&theme=jolly)
 
