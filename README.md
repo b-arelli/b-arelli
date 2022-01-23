@@ -1,6 +1,7 @@
 ### Hi there, i'm Mika!
 
-![giphy (2)](https://user-images.githubusercontent.com/81940210/134061909-a58add4a-75af-474a-815b-499c7eb07c3a.gif) 
+![image](https://user-images.githubusercontent.com/81940210/150692851-6c41e43b-eec1-43c5-b9ea-9e109dc58baa.png)
+
 
 my pronouns are she/her and i'm 17 years old.
 
